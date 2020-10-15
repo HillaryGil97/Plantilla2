@@ -1,5 +1,7 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks
 
+Se hizo el siguiente reto para poder practicar el uso de HTML, CSS, Booststrap y Sass.
+
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -55,17 +57,3 @@ There are multiple places you can share your solution:
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
-
-## Community Sponsors
-
-A massive thank you to our community sponsors!
-
-- [Sizzy](https://bit.ly/fm-sizzy) is an extremely useful browser designed specifically to improve a developer's workflow when building websites. You can fire up multiple device emulators and run them all in sync while building out your web pages. Perfect for helping build fully responsive websites!
-- [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links to dive into!
-- [Dracula PRO](https://bit.ly/fem-dracula) is a beautiful dark theme to help keep you focused and productive while you code. The theme isn't just for your editor either. You can also apply it to your most-used apps like your terminal and even Slack!
-=======
-# Plantilla2
-Plantilla para página con fines educativos
->>>>>>> a74232276c63cfef4aad6d3cadde2c42460c92b6
